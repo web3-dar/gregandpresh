@@ -20,7 +20,7 @@ const Story = () => {
       {/* Content */}
       <div className="relative z-10 text-center text-pink-300 p-4 max-w-xl mx-auto pt-20">
         <h1 className="text-4xl font-bold mb-6 animate__animated animate__fadeIn animate__delay-1s text-white" >
-          Itunuoluwa
+          Pepper
         </h1>
 
         <div className="text-2xl  flex  gap-3 justify-center mb-8 animate__animated animate__fadeIn animate__delay-2s "> <FaHeart/> <FaHeart/> <FaHeart/></div>

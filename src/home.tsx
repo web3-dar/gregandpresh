@@ -39,7 +39,7 @@ const Home = () => {
         <div className="flex gap-3 justify-center">
           <div>
             <h1 className="text-5xl font-semibold text-white mb-6 animate__animated animate__fadeIn animate__delay-1s">
-              Hiii Itunuoluwa!
+              Hiii Oluwabukola!
             </h1>
           </div>
           <div className="text-5xl font-semibold text-pink-400 mb-6 animate__animated animate__fadeIn animate__delay-1s">
